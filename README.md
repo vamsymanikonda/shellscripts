@@ -9,3 +9,8 @@ git push
 
 whenever you have conflicts with remote files use foloowing cmd to find the difference
 git diff -c readme.txt
+
+
+Create Branch and pushing it to remote
+git checkout -b ravi_fristbranch
+git push origin ravi_fristbranch
